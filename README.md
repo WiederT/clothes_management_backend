@@ -36,11 +36,11 @@ EC-Directives on the accessibility of the websites and mobile applications
   - Artikel 4: Die Mitgliedstaaten stellen sicher, dass öffentliche Stellen die erforderlichen Maßnahmen treffen, um ihre Websites und mobilen Anwendungen besser zugänglich zu machen, indem sie sie wahrnehmbar, bedienbar, verständlich und robust gestalten. 
   - Artikel 7: Die Mitgliedstaaten stellen sicher, dass öffentliche Stellen eine detaillierte, umfassende und klare Erklärung zur Barrierefreiheit über die Vereinbarkeit ihrer Websites und mobilen Anwendungen mit dieser Richtlinie bereitstellen und diese regelmäßig aktualisieren.
   - Artikel 12: Umsetzung
-   - Bis 23.09.2018: Inkraftsetzung der erforderlichen Rechts- und Verwaltungsvorschriften
-   - Barrierefreiheit für neue Websites öffentlicher Stellen ab dem 23.09.2019
-   - Barrierefreiheit für bestehende Websites öffentlicher Stellen ab dem 23.09.2020
-   - Barrierefreiheit für mobile Anwendungen öffentlicher Stellen ab dem 23.06.2021  
-   - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L2102
+    - Bis 23.09.2018: Inkraftsetzung der erforderlichen Rechts- und Verwaltungsvorschriften
+    - Barrierefreiheit für neue Websites öffentlicher Stellen ab dem 23.09.2019
+    - Barrierefreiheit für bestehende Websites öffentlicher Stellen ab dem 23.09.2020
+    - Barrierefreiheit für mobile Anwendungen öffentlicher Stellen ab dem 23.06.2021  
+    - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L2102
 
 # Research
 - https://aws.amazon.com/de/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/

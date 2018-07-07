@@ -8,6 +8,9 @@ The Backend for our clothes management application
   - Design frontend/backend architecture and server infrastructure
   - Setup project structure with https://start.spring.io/ 
   - Setting up Continious Integration (build/release process). Goal: build and release pipeline. (Jenkins? Nexus? Maven Repo?)
+  - Project-Init (documents output)
+    - Project definition document
+    - Project plan
 
 - Phase 2 (Feb-Mar 2019)
   - Define definition of done (DOD).
@@ -15,6 +18,8 @@ The Backend for our clothes management application
   - Developing backend / frontend. Setup, configure, maintanance database / server.
   - Documentation and tests
   - Full Agile and so. Tim will know (at least scrum master, haha)
+  - document output
+    - project diary
 
 - Phase 3 (Aug-Sept 2019)
   - Same as phase 2 :
